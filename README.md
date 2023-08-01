@@ -1,4 +1,4 @@
-## Olá! Eu sou a Monica👩‍💻‍
+## Olá! Eu sou a Mônica👩‍💻‍
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Monica-Ribeiro)](https://github.com/Monica-Ribeiro)
 
